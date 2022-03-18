@@ -8,9 +8,9 @@
 ## Contact me on
 
 <p align="center">
-    <a href="https://instagram.com/sumitkawale1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitkawale1" height="60" width="60" /></a>
-    <a href="https://www.linkedin.com/in/sumit-kawale-a3b51421b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="sumit-kawale-a3b51421b" height="60" width="60" /></a>
-    <a href="https://wa.me/919021368015" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/919021368015" height="60" width="60" /></a>
+    <a href="https://instagram.com/sumitkawale1" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitkawale1" height="50" width="50" /></a>
+    <a href="https://www.linkedin.com/in/sumit-kawale-a3b51421b/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="sumit-kawale-a3b51421b" height="50" width="50" /></a>
+    <a href="https://wa.me/919021368015" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/919021368015" height="50" width="50" /></a>
 </p>
 <br>
 
