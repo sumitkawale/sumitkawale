@@ -1,0 +1,49 @@
+  ul {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      list-style: none;
+      justify-content: center;
+      align-items: stretch;
+      padding: 0;
+  }
+
+  li {
+      margin: 0;
+      padding:0 10px;
+  }
+
+  .svg {
+      width: 60px;
+      height: 60px;
+      background: transperent;
+  }
+
+  .javascript {
+      fill: #F0DB4F;
+  }
+
+  .react {
+      fill: #61DBFB;
+  }
+
+  .node {
+      fill: #68a063;
+  }
+
+  .html {
+      fill: #E50010;
+  }
+
+  .css {
+      fill: #2965f1;
+  }
+
+  .php {
+      fill:#787CB5;
+  }
+  
+  .django {
+      width: 100px;
+      height: 50px;
+  }
