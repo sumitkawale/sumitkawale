@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/SumitKawale18?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/sumitkawale?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkawale&label=Profile%20views&color=640fd4&style=flat" alt="sumitkawale" /></p>
 
-### Skills
+### Skills 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
