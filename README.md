@@ -9,7 +9,7 @@ Experience in Frontend and Backend development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sumitkawale2002@gmail.com](mailto:sumitkawale2002@gmail.com)
-* 🧠  I'm learning Next.JS, Angular.JS
+* 🧠  I'm learning Next.JS, GraphQL and Angular.JS
 * ⚡  I Love JavaScript
 
 <a href="https://www.twitter.com/SumitKawale18" target="_blank" rel="noreferrer"><img
