@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
  
-<a href="https://sumitkawale.github.io/portfolio/">My Portfolio</a>
+🖥️  See my portfolio at <a href="https://sumitkawale.github.io/portfolio/">My Portfolio</a>
 ---------
 
 Experience in Frontend and Backend development
@@ -56,7 +56,7 @@ src="https://img.shields.io/github/followers/sumitkawale?logo=github&style=for-t
 
 <a href="http://www.github.com/sumitkawale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkawale&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sumitkawale"><img src="https://activity-graph.herokuapp.com/graph?username=sumitkawale&bg_color=22272e&color=ffffff&line=a855f7&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sumitkawale"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sumitkawale&bg_color=22272e&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!-- <a href="https://github.com/sumitkawale" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkawale&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
